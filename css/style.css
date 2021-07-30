@@ -59,7 +59,7 @@ body{
     font-family: 'Raleway', sans-serif;
 }
 html{
-    Scrolling-behavior : smooth;
+    Scroll-behavior : smooth;
 }
 .container{
     margin-left: auto;
